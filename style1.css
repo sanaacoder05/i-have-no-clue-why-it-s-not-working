@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(to bottom, #bffff8, #9198e5);
+}
+#header{
+    background-color: #8d64e6;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-size: large;
+
+
+}

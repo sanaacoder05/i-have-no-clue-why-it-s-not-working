@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(to bottom, #e66465, #9198e5);
+}
+#header{
+    background-color: #e66465;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-size: large;
+
+
+}
+#button{
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    text-align: center;
+    font-size: large;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
